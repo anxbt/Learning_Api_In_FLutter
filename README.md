@@ -92,4 +92,4 @@ To add these dependencies, ensure your `pubspec.yaml` includes:
 
 ### Help and Support
 
-If you have any doubts or need further assistance, feel free to go to the Discussion tab and ask your questions. We're here to help!
+If you have any doubts or need further assistance, feel free to go to the Discussion tab and ask your questions. We're here to help!git branch -D master
