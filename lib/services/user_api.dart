@@ -28,8 +28,6 @@ class UserApi {
         name: name,
       );
     }).toList();
-    print(json);
-    print("complet");
     return users;
     print(json);
     print("completed");
